@@ -3,7 +3,7 @@
 
 This project analyzes 2016 single-family conforming loan-level data from Fannie Mae and Freddie Mac. The goal is to understand borrower risk characteristics and simulate the creation of mortgage-backed securities (MBS) pools based on credit and collateral quality.
 
-## ✅ Project Steps
+##  Project Steps
 
 ### Step 1: Load & Inspect Data
 - Loaded FNMA and FHLMC loan-level CSV files.
@@ -42,12 +42,3 @@ This project analyzes 2016 single-family conforming loan-level data from Fannie 
   - **Pool C**: Subprime / High LTV — high risk, equity tranche
   - **Pool D**: Prime / High LTV — high credit, high leverage
 - Summarized and compared pool characteristics
-
-## 📈 Next Steps
-- Visualize pool comparisons with bar charts
-- Optionally apply the pipeline to Freddie Mac loans
-- Expand to risk modeling or performance analysis with more data
-
----
-
-Prepared for interview discussion and MBS structuring analysis.
